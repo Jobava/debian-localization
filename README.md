@@ -22,3 +22,5 @@ Debian VCS:
 Website .po files: https://anonscm.debian.org/viewvc/webwml/webwml/
 
 Howto: https://www.debian.org/devel/website/using_cvs
+
+Arhiva de la lista de discuții: http://debian.2.n7.nabble.com/debian-l10n-romanian-f871903.html
