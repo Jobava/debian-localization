@@ -1,36 +1,40 @@
+# Jobava <jobaval10n@gmail.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml organization\n"
-"PO-Revision-Date: 2006-08-12 17:49+0200\n"
-"Last-Translator: unknown\n"
-"Language-Team: unknown\n"
-"Language: \n"
+"PO-Revision-Date: 2015-10-10 21:27+0300\n"
+"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
+"Language-Team: Romanian <debian-l10n-romanian@lists.debian.org>\n"
+"Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #: ../../english/intro/organization.data:13
 msgid "delegation mail"
-msgstr ""
+msgstr "e-mail de delegare"
 
 #: ../../english/intro/organization.data:14
 msgid "appointment mail"
-msgstr ""
+msgstr "e-mail de programare"
 
 #. One male delegate
 #: ../../english/intro/organization.data:16
 msgid "<void id=\"male\"/>delegate"
-msgstr ""
+msgstr "<void id=\"male\"/>delegat"
 
 #. One female delegate
 #: ../../english/intro/organization.data:18
 msgid "<void id=\"female\"/>delegate"
-msgstr ""
+msgstr "<void id=\"female\"/>delegată"
 
 #: ../../english/intro/organization.data:21
 #: ../../english/intro/organization.data:23
 msgid "current"
-msgstr "actual&#259;"
+msgstr "actual"
 
 #: ../../english/intro/organization.data:25
 #: ../../english/intro/organization.data:27
@@ -39,28 +43,27 @@ msgstr "membru"
 
 #: ../../english/intro/organization.data:30
 msgid "manager"
-msgstr ""
+msgstr "administrator"
 
 #: ../../english/intro/organization.data:32
 msgid "SRM"
-msgstr ""
+msgstr "SRM"
 
 #: ../../english/intro/organization.data:32
-#, fuzzy
 msgid "Stable Release Manager"
-msgstr "administratorul lans&#259;rii"
+msgstr "administratorul ediției stabile"
 
 #: ../../english/intro/organization.data:34
 msgid "wizard"
-msgstr ""
+msgstr "vrăjitor"
 
 #: ../../english/intro/organization.data:37
 msgid "chairman"
-msgstr "pre&#351;edinte"
+msgstr "președinte"
 
 #: ../../english/intro/organization.data:40
 msgid "assistant"
-msgstr ""
+msgstr "asistent"
 
 #: ../../english/intro/organization.data:42
 msgid "secretary"
@@ -69,252 +72,235 @@ msgstr "secretar"
 #: ../../english/intro/organization.data:51
 #: ../../english/intro/organization.data:60
 msgid "Officers"
-msgstr "Ofiteri"
+msgstr "Directori"
 
 #: ../../english/intro/organization.data:52
 #: ../../english/intro/organization.data:80
 msgid "Distribution"
-msgstr "distribu&#355;ie"
+msgstr "Distribuție"
 
 #: ../../english/intro/organization.data:53
 #: ../../english/intro/organization.data:220
 msgid "Publicity"
-msgstr "publicitate"
+msgstr "Publicitate"
 
 #: ../../english/intro/organization.data:54
 #: ../../english/intro/organization.data:246
 msgid "Support and Infrastructure"
-msgstr "suport &#351;i infrastructur&#259;"
+msgstr "Suport și infrastructură"
 
 #. formerly Custom Debian Distributions (CCDs); see http://blends.alioth.debian.org/blends/ch-about.en.html#s-Blends
 #: ../../english/intro/organization.data:56
 msgid "Debian Pure Blends"
-msgstr ""
+msgstr "Debian Pure Blends"
 
 #: ../../english/intro/organization.data:63
 msgid "Leader"
-msgstr "Conduc&#259;tor"
+msgstr "Conducător"
 
 #: ../../english/intro/organization.data:65
 msgid "Technical Committee"
-msgstr "comitet tehnic"
+msgstr "Comitet tehnic"
 
 #: ../../english/intro/organization.data:74
 msgid "Secretary"
-msgstr "secretar"
+msgstr "Secretar"
 
 #: ../../english/intro/organization.data:83
 msgid "Development Projects"
-msgstr "proiect de dezvoltare"
+msgstr "Proiecte de dezvoltare"
 
 #: ../../english/intro/organization.data:84
 msgid "FTP Archives"
-msgstr "arhive ftp"
+msgstr "Arhive FTP"
 
 #: ../../english/intro/organization.data:86
 msgid "FTP Masters"
-msgstr ""
+msgstr "Maeștri FTP"
 
 #: ../../english/intro/organization.data:90
 msgid "FTP Assistants"
-msgstr ""
+msgstr "Asistenți FTP"
 
 #: ../../english/intro/organization.data:97
 msgid "FTP Wizards"
-msgstr ""
+msgstr "Vrăjitori FTP"
 
 #: ../../english/intro/organization.data:101
 msgid "Backports"
-msgstr ""
+msgstr "Backporturi"
 
 #: ../../english/intro/organization.data:103
 msgid "Backports Team"
-msgstr ""
+msgstr "Echipa de backportări"
 
 #: ../../english/intro/organization.data:107
 msgid "Individual Packages"
-msgstr "pachete individuale"
+msgstr "Pachete individuale"
 
 #: ../../english/intro/organization.data:108
 msgid "Release Management"
-msgstr "administrarea lans&#259;rii"
+msgstr "Administrarea ediției"
 
 #: ../../english/intro/organization.data:110
-#, fuzzy
-#| msgid "Release Notes"
 msgid "Release Team"
-msgstr "note de lansare"
+msgstr "Note de lansare"
 
 #: ../../english/intro/organization.data:122
 msgid "Quality Assurance"
-msgstr "Controlul calit&#259;&#355;ii"
+msgstr "Controlul calității"
 
 #: ../../english/intro/organization.data:123
 msgid "Installation System Team"
-msgstr "echipa systemului de instalare"
+msgstr "Echipa sistemului de instalare"
 
 #: ../../english/intro/organization.data:124
 msgid "Release Notes"
-msgstr "note de lansare"
+msgstr "Note de lansare"
 
 #: ../../english/intro/organization.data:126
 msgid "CD Images"
-msgstr "imagini pentru CD-uri"
+msgstr "Imagini CD-uri"
 
 #: ../../english/intro/organization.data:128
 msgid "Production"
-msgstr "producere"
+msgstr "Producție"
 
 #: ../../english/intro/organization.data:136
 msgid "Testing"
-msgstr "testare"
+msgstr "Testare"
 
 #: ../../english/intro/organization.data:138
-#, fuzzy
-#| msgid "Support and Infrastructure"
 msgid "Autobuilding infrastructure"
-msgstr "suport &#351;i infrastructur&#259;"
+msgstr "Infrastructură auto-building"
 
 #: ../../english/intro/organization.data:140
 msgid "Wanna-build team"
-msgstr ""
+msgstr "Echipa wanna-build"
 
 #: ../../english/intro/organization.data:146
-#, fuzzy
-#| msgid "System Administration"
 msgid "Buildd administration"
-msgstr "administrarea sistemului"
+msgstr "Administrarea build-ului"
 
 #: ../../english/intro/organization.data:165
 msgid "Documentation"
-msgstr "documentare"
+msgstr "Documentare"
 
 #: ../../english/intro/organization.data:170
 msgid "Work-Needing and Prospective Packages list"
-msgstr ""
+msgstr "Lista de pachete ce au nevoie de ajutor și de pachete potențiale"
 
 #: ../../english/intro/organization.data:173
-#, fuzzy
-#| msgid "Installation System Team"
 msgid "Live System Team"
-msgstr "echipa systemului de instalare"
+msgstr "Echipa sistemului live"
 
 #: ../../english/intro/organization.data:174
 msgid "Ports"
-msgstr "Port&#259;ri"
+msgstr "Portări"
 
 #: ../../english/intro/organization.data:210
 msgid "Special Configurations"
-msgstr "configur&#259;ri speciale"
+msgstr "Configurări speciale"
 
 #: ../../english/intro/organization.data:213
 msgid "Laptops"
-msgstr "laptoape"
+msgstr "Laptopuri"
 
 #: ../../english/intro/organization.data:214
 msgid "Firewalls"
-msgstr "protec&#355;ie"
+msgstr "Firewall-uri"
 
 #: ../../english/intro/organization.data:215
 msgid "Embedded systems"
-msgstr "sisteme integrate"
+msgstr "Sisteme integrate"
 
 #: ../../english/intro/organization.data:223
 msgid "Press Contact"
-msgstr "contact de pres&#259;"
+msgstr "Contact cu presa"
 
 #: ../../english/intro/organization.data:229
 msgid "Partner Program"
-msgstr "program de parteneriat"
+msgstr "Program de parteneriat"
 
 #: ../../english/intro/organization.data:234
 msgid "Events"
-msgstr "evenimente"
+msgstr "Evenimente"
 
 #: ../../english/intro/organization.data:240
 msgid "Bits from Debian"
-msgstr ""
+msgstr "Bits from Debian"
 
 #: ../../english/intro/organization.data:249
 msgid "User support"
-msgstr "suport pentru utilizatori"
+msgstr "Suport utilizatori"
 
 #: ../../english/intro/organization.data:316
 msgid "Bug Tracking System"
-msgstr "Sistem de urm&#259;rire al erorilor"
+msgstr "Sistem de urmărire a defectelor"
 
 #: ../../english/intro/organization.data:321
-#, fuzzy
 msgid "Mailing Lists Administration and Mailing List Archives"
-msgstr "administrarea listelor de e-mail"
+msgstr "Administrarea listelor de discuții și arhivele listelor de discuții"
 
 #: ../../english/intro/organization.data:329
-#, fuzzy
-#| msgid "New Maintainers Front Desk"
 msgid "New Members Front Desk"
-msgstr "biroul noilor administratori"
+msgstr "Secretariatul pentru noii întreținători"
 
 #: ../../english/intro/organization.data:334
-#, fuzzy
 msgid "Debian Account Managers"
-msgstr "administratorii conturilor de dezvoltare"
+msgstr "Administratorii conturilor Debian"
 
 #: ../../english/intro/organization.data:338
 msgid "Keyring Maintainers (PGP and GPG)"
-msgstr ""
+msgstr "Întreținătorii lanțului de chei (PGP and GPG)"
 
 #: ../../english/intro/organization.data:341
-#, fuzzy
-#| msgid "New Maintainers Front Desk"
-msgid "Debian Maintainer (DM) Keyring Maintainers"
-msgstr "biroul noilor administratori"
+msgid  "Debian Maintainer (DM) Keyring Maintainers"
+msgstr "Întreținătorii lanțului de chei Debian (DM)"
 
 #: ../../english/intro/organization.data:345
 msgid "Security Team"
-msgstr "echipa de securitate"
+msgstr "Echipa de securitate"
 
 #: ../../english/intro/organization.data:360
-#, fuzzy
-#| msgid "Security Team"
 msgid "Testing Security Team"
-msgstr "echipa de securitate"
+msgstr "Echipa de testare a securității"
 
 #: ../../english/intro/organization.data:369
 msgid "Security Audit Project"
-msgstr ""
+msgstr "Proiectul „audit de securitate”"
 
 #: ../../english/intro/organization.data:374
 msgid "Web Pages"
-msgstr "pagini pe internet"
+msgstr "Pagini web"
 
 #: ../../english/intro/organization.data:382
 msgid "Consultants Page"
-msgstr "pagina consultan&#355;ilor"
+msgstr "Pagina consultanților"
 
 #: ../../english/intro/organization.data:387
 msgid "CD Vendors Page"
-msgstr "pagina v&#226;nz&#259;torilor de CD-uri"
+msgstr "Pagina vânzătorilor de CD-uri"
 
 #: ../../english/intro/organization.data:390
 msgid "Planet Debian"
-msgstr ""
+msgstr "Planeta Debian"
 
 #: ../../english/intro/organization.data:394
 msgid "Policy"
-msgstr "regulament"
+msgstr "Regulament"
 
 #: ../../english/intro/organization.data:400
 msgid "System Administration"
-msgstr "administrarea sistemului"
+msgstr "Administrarea sistemului"
 
 #: ../../english/intro/organization.data:401
 msgid ""
 "This is the address to use when encountering problems on one of Debian's "
 "machines, including password problems or you need a package installed."
 msgstr ""
-"Aceasta este adresa pe care o pute&#355;i folosi c&#226;nd &#238;nt&#226;"
-"lni&#355;i o problem&#259; peuna sin ma&#351;inile Debian, incluz&#226;nd "
-"probleme de parole sau instalare de pachete."
+"Aceasta este adresa pe care o puteți folosi când întâlniți o problemă pe una "
+"din mașinile Debian, inclusiv probleme cu parolele sau dacă aveți nevoie de un pachet instalat."
 
 #: ../../english/intro/organization.data:408
 msgid ""
@@ -322,83 +308,81 @@ msgid ""
 "\"https://db.debian.org/machines.cgi\">Debian Machines</a> page, it should "
 "contain per-machine administrator information."
 msgstr ""
-"pentru probleme de hard, v&#259; rug&#259;m s&#259; vede&#355;i paginile <a "
-"href=\"https://db.debian.org/machines.cgi\">ma&#351;inile Debian</a>, ar "
-"trebuis&#259; con&#355;in&#259; informa&#355;ii de administrare a fiec&#259;"
-"rei ma&#351;ini."
+"pentru probleme de hardware, vă rugăm să vedeți paginile <a "
+"href=\"https://db.debian.org/machines.cgi\">mașinile Debian</a>, ar "
+"trebui să conțină informați de administrare pentru fiecare mașină."
 
 #: ../../english/intro/organization.data:409
 msgid "LDAP Developer Directory Administrator"
-msgstr ""
+msgstr "Administratorul directorului de dezvoltatori LDAP"
 
 #: ../../english/intro/organization.data:410
 msgid "Mirrors"
-msgstr "oglindiri"
+msgstr "Oglinzi"
 
 #: ../../english/intro/organization.data:415
 msgid "DNS Maintainer"
-msgstr "administrator de DSN"
+msgstr "Întreținători DSN"
 
 #: ../../english/intro/organization.data:416
 msgid "Package Tracking System"
-msgstr "sistem de urm&#259;rire a pachetelor"
+msgstr "Sistem de urmărire a pachetelor"
 
 #: ../../english/intro/organization.data:418
 msgid "Hardware Donations Coordination"
-msgstr "coordonarea dona&#355;iilor de hardware"
+msgstr "Coordonarea donațiilor de hardware"
 
 #: ../../english/intro/organization.data:424
 msgid "Auditor"
-msgstr ""
+msgstr "Auditor"
 
 #: ../../english/intro/organization.data:427
 msgid "<a href=\"m4_HOME/trademark\">Trademark</a> use requests"
-msgstr ""
+msgstr "<a href=\"m4_HOME/trademark\">Mărci înregistrate</a> cereri de utilizare"
 
 #: ../../english/intro/organization.data:428
 msgid "current Debian Project Leader"
-msgstr ""
+msgstr "conducătorul actual al Proiectului Debian"
 
 #: ../../english/intro/organization.data:430
 msgid "Alioth administrators"
-msgstr "administrtori Alioth"
+msgstr "Administrtori Alioth"
 
 #: ../../english/intro/organization.data:436
-#, fuzzy
 msgid "Debian Women Project"
-msgstr "proiect de dezvoltare"
+msgstr "Proiectul Femei Debian"
 
 #: ../../english/intro/organization.data:443
 msgid "DebConf chairs"
-msgstr ""
+msgstr "Conducători DebConf"
 
 #: ../../english/intro/organization.data:447
 msgid "Anti-harassment"
-msgstr ""
+msgstr "Anti-hărțuire"
 
 #: ../../english/intro/organization.data:458
 msgid "Debian for children from 1 to 99"
-msgstr ""
+msgstr "Debian pentru copii între 1 și 99 de ani"
 
 #: ../../english/intro/organization.data:461
 msgid "Debian for medical practice and research"
-msgstr ""
+msgstr "Debian pentru practica medicală și cercetare"
 
 #: ../../english/intro/organization.data:464
 msgid "Debian for education"
-msgstr ""
+msgstr "Debian pentru educație"
 
 #: ../../english/intro/organization.data:471
 msgid "Debian in legal offices"
-msgstr ""
+msgstr "Debian în birouri juridice"
 
 #: ../../english/intro/organization.data:475
 msgid "Debian for people with disabilities"
-msgstr ""
+msgstr "Debian pentru oameni cu dizabilități"
 
 #: ../../english/intro/organization.data:479
 msgid "Debian for science and related research"
-msgstr ""
+msgstr "Debian pentru știință și cercetare"
 
 #, fuzzy
 #~ msgid "Release Assistants"
@@ -406,11 +390,11 @@ msgstr ""
 
 #, fuzzy
 #~ msgid "Release Assistants for ``stable''"
-#~ msgstr "administratorul lans&#259;rii pentru &#8222;stable&#8221;"
+#~ msgstr "administratorul lansării pentru &#8222;stable&#8221;"
 
 #, fuzzy
 #~ msgid "Release Wizard"
-#~ msgstr "administratorul lans&#259;rii"
+#~ msgstr "administratorul lansării"
 
 #~ msgid "APT Team"
 #~ msgstr "Echipa APT"
@@ -429,11 +413,11 @@ msgstr ""
 #~ msgstr "echipa de securitate"
 
 #~ msgid "Vendors"
-#~ msgstr "v&#226;nz&#259;tori"
+#~ msgstr "v&#226;nzători"
 
 #, fuzzy
 #~ msgid "Release Team for ``stable''"
-#~ msgstr "administratorul lans&#259;rii pentru &#8222;stable&#8221;"
+#~ msgstr "administratorul lansării pentru &#8222;stable&#8221;"
 
 #, fuzzy
 #~ msgid "Custom Debian Distributions"
