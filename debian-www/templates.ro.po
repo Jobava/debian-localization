@@ -54,8 +54,8 @@ msgid ""
 "maintained and updated through the work of many users who volunteer their "
 "time and effort."
 msgstr ""
-"Debian este un sistem de operare și o distribuție de software liber. Este "
-"menținut și actualizat prin munca a multor utilizatori care își donează "
+"Debian este un sistem de operare și o distribuție de Software Liber. Este "
+"menținută și actualizată prin munca a multor utilizatori care își donează "
 "timpul și efortul."
 
 #: ../../english/template/debian/common_translation.wml:16
@@ -226,7 +226,7 @@ msgstr "Drepturi de autor"
 
 #: ../../english/template/debian/footer.wml:105
 msgid "<a href=\"http://www.spi-inc.org/\">SPI</a> and others;"
-msgstr "<a href=\"http://www.spi-inc.org/\">SPI</a> și altele;"
+msgstr "<a href=\"http://www.spi-inc.org/\">SPI</a> și alții;"
 
 #: ../../english/template/debian/footer.wml:108
 msgid "See <a href=\"m4_HOME/license\" rel=\"copyright\">license terms</a>"
@@ -239,7 +239,7 @@ msgid ""
 "Debian is a registered <a href=\"m4_HOME/trademark\">trademark</a> of "
 "Software in the Public Interest, Inc."
 msgstr ""
-"Debian este o <a href=\"m4_HOME/trademark\">marcă</a> a "
+"Debian este o <a href=\"m4_HOME/trademark\">marcă</a> înregistrată a "
 "Software in the Public Interest, Inc."
 
 #: ../../english/template/debian/languages.wml:196
@@ -281,7 +281,7 @@ msgstr "Știri ale proiectului"
 
 #: ../../english/template/debian/links.tags.wml:22
 msgid "Release Info"
-msgstr "Informații lansare"
+msgstr "Informații despre lansări"
 
 #: ../../english/template/debian/links.tags.wml:25
 msgid "Debian Packages"
@@ -301,7 +301,7 @@ msgstr "Cărți Debian"
 
 #: ../../english/template/debian/links.tags.wml:37
 msgid "Mailing List Archives"
-msgstr "Arhive liste discuții"
+msgstr "Arhivele listelor de discuții"
 
 #: ../../english/template/debian/links.tags.wml:40
 msgid "Mailing Lists"
@@ -334,11 +334,11 @@ msgstr "Întrebări frecvente Debian"
 
 #: ../../english/template/debian/links.tags.wml:64
 msgid "Debian Policy Manual"
-msgstr "Manualul de conduită Debian"
+msgstr "Manualul de procedură Debian"
 
 #: ../../english/template/debian/links.tags.wml:67
 msgid "Developers' Reference"
-msgstr "Referințe pentru programatori"
+msgstr "Manualul de referință pentru dezvoltatorii de pachete"
 
 #: ../../english/template/debian/links.tags.wml:70
 msgid "New Maintainers' Guide"
@@ -346,7 +346,7 @@ msgstr "Ghidul noului responsabil (maintainer)"
 
 #: ../../english/template/debian/links.tags.wml:73
 msgid "Release Critical Bugs"
-msgstr "Defecte critice ale ediției"
+msgstr "Defecte critice"
 
 #: ../../english/template/debian/links.tags.wml:76
 msgid "Lintian Reports"
@@ -358,11 +358,11 @@ msgstr "Archivele pentru listele de discuții ale utilizatorilor"
 
 #: ../../english/template/debian/links.tags.wml:83
 msgid "Archives for developers' mailing lists"
-msgstr "Arhive pentru listele de discuții ale programatorilor"
+msgstr "Arhivele pentru listele de discuții ale dezvoltatorilor"
 
 #: ../../english/template/debian/links.tags.wml:86
 msgid "Archives for i18n/l10n mailing lists"
-msgstr "Arhive pentru listele de i18n/l10n"
+msgstr "Arhivele pentru listele de i18n/l10n"
 
 #: ../../english/template/debian/links.tags.wml:89
 msgid "Archives for ports' mailing lists"
@@ -379,7 +379,7 @@ msgstr "Arhivele pentru listele de discuții „diverse”"
 
 #: ../../english/template/debian/links.tags.wml:98
 msgid "Free Software"
-msgstr "Programe libere"
+msgstr "Software Liber"
 
 #: ../../english/template/debian/links.tags.wml:104
 msgid "Development"
@@ -415,7 +415,7 @@ msgstr "Instalare prin rețea"
 
 #: ../../english/template/debian/links.tags.wml:128
 msgid "Pre-installed"
-msgstr "Preinstalate"
+msgstr "Sisteme preinstalate"
 
 #: ../../english/template/debian/links.tags.wml:131
 msgid "Debian-Edu project"
@@ -427,15 +427,15 @@ msgstr "Alioth &ndash; Debian GForge"
 
 #: ../../english/template/debian/links.tags.wml:137
 msgid "Quality Assurance"
-msgstr "Asigurarea calității (QA)"
+msgstr "Controlul calității"
 
 #: ../../english/template/debian/links.tags.wml:140
 msgid "Package Tracking System"
-msgstr "Sistem de urmărire a pachetelor"
+msgstr "Sistemul de urmărire a pachetelor"
 
 #: ../../english/template/debian/links.tags.wml:143
 msgid "Debian Developer's Packages Overview"
-msgstr "Privire de ansamblu pachete dezvoltatori Debian"
+msgstr "Sumarul pachetelor unui dezvoltator Debian"
 
 #: ../../english/template/debian/navbar.wml:10
 #| msgid "Debian Project"
@@ -511,7 +511,7 @@ msgstr "<em>Notă:</em> originalul acestei traduceri nu mai există."
 
 #: ../../english/template/debian/url.wml:4
 msgid "URL"
-msgstr "Adresă"
+msgstr "URL"
 
 #: ../../english/template/debian/users.wml:7
 msgid "Back to the <a href=\"../\">Who's using Debian? page</a>."
