@@ -15,7 +15,8 @@ Starea traducerilor românești:
 * debian installer (toate limbile): http://d-i.debian.org/l10n-stats/translation-status.html
 
 Debian VCS:
-* cvs.debian.org
+* cvs.debian.org (example: cvs -d :pserver:anonymous@anonscm.debian.org:/cvs/webwml checkout webwml/romanian/po
+)
 * svn.debian.org
 * git.debian.org
 
