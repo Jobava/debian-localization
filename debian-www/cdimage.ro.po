@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml organization\n"
-"PO-Revision-Date: 2015-10-10 14:40+0200\n"
+"PO-Revision-Date: 2015-10-18 12:32+0300\n"
 "Last-Translator: Jobava <jobaval10n@gmail.com>\n"
 "Language-Team: Romanian <debian-l10n-romanian@lists.debian.org>\n"
 "Language: ro\n"
@@ -27,7 +27,7 @@ msgstr "Imagini ISO"
 
 #: ../../english/devel/debian-installer/images.data:91
 msgid  "Jigdo files"
-msgstr "Fișiere Jidgo"
+msgstr "Fișiere Jigdo"
 
 #. note: only change the sep(arator) if it's not good for your charset
 #: ../../english/template/debian/cdimage.wml:10

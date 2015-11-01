@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml organization\n"
-"PO-Revision-Date: 2015-10-10 14:50+0200\n"
+"PO-Revision-Date: 2015-10-18 12:36+0300\n"
 "Last-Translator: Jobava <jobaval10n@gmail.com>\n"
 "Language-Team: Romanian <debian-l10n-romanian@lists.debian.org>\n"
 "Language: ro\n"
@@ -38,7 +38,7 @@ msgstr "Fax:"
 
 #: ../../english/consultants/consultant.defs:25
 msgid "URL:"
-msgstr "Pagina pe internet:"
+msgstr "URL:"
 
 #: ../../english/consultants/consultant.defs:29
 msgid "or"
@@ -50,7 +50,7 @@ msgstr "E-mail:"
 
 #: ../../english/consultants/consultant.defs:52
 msgid "Rates:"
-msgstr "Taxe:"
+msgstr "Tarife:"
 
 #: ../../english/consultants/consultant.defs:55
 msgid "Additional Information"
@@ -65,7 +65,7 @@ msgid ""
 "<total_consultant> Debian consultants listed in <total_country> countries "
 "worldwide."
 msgstr ""
-"<total_consultant> Consultanți Debian listați în <total_country> țări "
+"<total_consultant> consultanți Debian listați în <total_country> țări "
 "din întreaga lume."
 
 #: ../../english/template/debian/consultant.wml:6

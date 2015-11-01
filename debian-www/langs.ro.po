@@ -1,131 +1,127 @@
 # Debian Web Site. langs.ro.po
 #
-# Jobava <jobaval10n@gmail.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml organization\n"
-"PO-Revision-Date: 2015-10-10 15:15+0300\n"
-"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
+"PO-Revision-Date: 2011-02-06 23:05+0200\n"
+"Last-Translator: Ionel Mugurel Ciob&#238;c&#259; <I.M.Ciobica@tue.nl>\n"
 "Language-Team: Romanian <debian-l10n-romanian@lists.debian.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
-"20)) ? 1 : 2;\n"
-"X-Generator: Lokalize 1.5\n"
 
 #: ../../english/template/debian/language_names.wml:8
 msgid "Arabic"
-msgstr "arabă"
+msgstr "arab&#259;"
 
 #: ../../english/template/debian/language_names.wml:9
 msgid "Armenian"
-msgstr "armeană"
+msgstr "armean&#259;"
 
 #: ../../english/template/debian/language_names.wml:10
 msgid "Finnish"
-msgstr "finlandeză"
+msgstr "finlandez&#259;"
 
 #: ../../english/template/debian/language_names.wml:11
 msgid "Croatian"
-msgstr "croată"
+msgstr "croat&#259;"
 
 #: ../../english/template/debian/language_names.wml:12
 msgid "Danish"
-msgstr "daneză"
+msgstr "danez&#259;"
 
 #: ../../english/template/debian/language_names.wml:13
 msgid "Dutch"
-msgstr "olandeză"
+msgstr "olandez&#259;"
 
 #: ../../english/template/debian/language_names.wml:14
 msgid "English"
-msgstr "engleză"
+msgstr "englez&#259;"
 
 #: ../../english/template/debian/language_names.wml:15
 msgid "French"
-msgstr "franceză"
+msgstr "francez&#259;"
 
 #: ../../english/template/debian/language_names.wml:16
 msgid "Galician"
-msgstr "galiciană"
+msgstr "galician&#259;"
 
 #: ../../english/template/debian/language_names.wml:17
 msgid "German"
-msgstr "germană"
+msgstr "german&#259;"
 
 #: ../../english/template/debian/language_names.wml:18
 msgid "Italian"
-msgstr "italiană"
+msgstr "italian&#259;"
 
 #: ../../english/template/debian/language_names.wml:19
 msgid "Japanese"
-msgstr "japoneză"
+msgstr "japonez&#259;"
 
 #: ../../english/template/debian/language_names.wml:20
 msgid "Korean"
-msgstr "coreeană"
+msgstr "corean&#259;"
 
 #: ../../english/template/debian/language_names.wml:21
 msgid "Spanish"
-msgstr "spaniolă"
+msgstr "spaniol&#259;"
 
 #: ../../english/template/debian/language_names.wml:22
 msgid "Portuguese"
-msgstr "portugheză"
+msgstr "portughez&#259;"
 
 #: ../../english/template/debian/language_names.wml:23
 msgid "Portuguese (Brazilian)"
-msgstr "portugheză (braziliană)"
+msgstr "portughez&#259;"
 
 #: ../../english/template/debian/language_names.wml:24
 msgid "Chinese"
-msgstr "chineză"
+msgstr "chinez&#259;"
 
 #: ../../english/template/debian/language_names.wml:25
 msgid "Chinese (China)"
-msgstr "chineză (China)"
+msgstr "chinez&#259; (China)"
 
 #: ../../english/template/debian/language_names.wml:26
 msgid "Chinese (Hong Kong)"
-msgstr "chineză (Hong Kong)"
+msgstr "chinez&#259; (Hong Kong)"
 
 #: ../../english/template/debian/language_names.wml:27
 msgid "Chinese (Taiwan)"
-msgstr "chineză (Taiwan)"
+msgstr "chinez&#259; (Taivan)"
 
 #: ../../english/template/debian/language_names.wml:28
 msgid "Chinese (Traditional)"
-msgstr "chineză (tradițională)"
+msgstr "chinez&#259; (tradi&#355;ională)"
 
 #: ../../english/template/debian/language_names.wml:29
 msgid "Chinese (Simplified)"
-msgstr "chineză (simplificată)"
+msgstr "chinez&#259; (simplificat&#259;)"
 
 #: ../../english/template/debian/language_names.wml:30
 msgid "Swedish"
-msgstr "suedeză"
+msgstr "suedez&#259;"
 
 #: ../../english/template/debian/language_names.wml:31
 msgid "Polish"
-msgstr "poloneză"
+msgstr "polonez&#259;"
 
 #: ../../english/template/debian/language_names.wml:32
 msgid "Norwegian"
-msgstr "norvegiană"
+msgstr "norvegian&#259;"
 
 #: ../../english/template/debian/language_names.wml:33
 msgid "Turkish"
-msgstr "turcă"
+msgstr "turc&#259;"
 
 #: ../../english/template/debian/language_names.wml:34
 msgid "Russian"
-msgstr "rusă"
+msgstr "rus&#259;"
 
 #: ../../english/template/debian/language_names.wml:35
 msgid "Czech"
-msgstr "cehă"
+msgstr "ceh&#259;"
 
 #: ../../english/template/debian/language_names.wml:36
 msgid "Esperanto"
@@ -133,108 +129,108 @@ msgstr "esperanto"
 
 #: ../../english/template/debian/language_names.wml:37
 msgid "Hungarian"
-msgstr "maghiară"
+msgstr "maghiar&#259;"
 
 #: ../../english/template/debian/language_names.wml:38
 msgid "Romanian"
-msgstr "română"
+msgstr "rom&#226;n&#259;"
 
 #: ../../english/template/debian/language_names.wml:39
 msgid "Slovak"
-msgstr "slovacă"
+msgstr "slovac&#259;"
 
 #: ../../english/template/debian/language_names.wml:40
 msgid "Greek"
-msgstr "greacă"
+msgstr "greac&#259;"
 
 #: ../../english/template/debian/language_names.wml:41
 msgid "Catalan"
-msgstr "catalană"
+msgstr "catalan&#259;"
 
 #: ../../english/template/debian/language_names.wml:42
 msgid "Indonesian"
-msgstr "indoneziană"
+msgstr "indonesian&#259;"
 
 #: ../../english/template/debian/language_names.wml:43
 msgid "Lithuanian"
-msgstr "lituaniană"
+msgstr "lituanian&#259;"
 
 #: ../../english/template/debian/language_names.wml:44
 msgid "Slovene"
-msgstr "slovenă"
+msgstr "sloven&#259;"
 
 #: ../../english/template/debian/language_names.wml:45
 msgid "Bulgarian"
-msgstr "bulgară"
+msgstr "bulgar&#259;"
 
 #: ../../english/template/debian/language_names.wml:46
 msgid "Tamil"
-msgstr "tamilă"
+msgstr "tamil&#259;"
 
 #. for now, the following are only needed if you intend to translate intl/l10n
 #: ../../english/template/debian/language_names.wml:48
 msgid "Afrikaans"
-msgstr "afrikaans"
+msgstr "african&#259;"
 
 #: ../../english/template/debian/language_names.wml:49
 msgid "Albanian"
-msgstr "albaneză"
+msgstr "albanez&#259;"
 
 #: ../../english/template/debian/language_names.wml:50
 msgid "Asturian"
-msgstr "asturiană"
+msgstr ""
 
 #: ../../english/template/debian/language_names.wml:51
 msgid "Amharic"
-msgstr "amharică"
+msgstr "amaric&#259;"
 
 #: ../../english/template/debian/language_names.wml:52
 msgid "Azerbaijani"
-msgstr "azerbaidjană"
+msgstr "azerbaigian&#259;"
 
 #: ../../english/template/debian/language_names.wml:53
 msgid "Basque"
-msgstr "bască"
+msgstr "basc&#259;"
 
 #: ../../english/template/debian/language_names.wml:54
 msgid "Belarusian"
-msgstr "bielorusă"
+msgstr "bielorus&#259;"
 
 #: ../../english/template/debian/language_names.wml:55
 msgid "Bengali"
-msgstr "bengală"
+msgstr "bengali"
 
 #: ../../english/template/debian/language_names.wml:56
 msgid "Bosnian"
-msgstr "bosniacă"
+msgstr "bosniac&#259;"
 
 #: ../../english/template/debian/language_names.wml:57
 msgid "Breton"
-msgstr "bretonă"
+msgstr "breton&#259;"
 
 #: ../../english/template/debian/language_names.wml:58
 msgid "Cornish"
-msgstr "cornish"
+msgstr "cornic&#259;"
 
 #: ../../english/template/debian/language_names.wml:59
 msgid "Estonian"
-msgstr "estoniană"
+msgstr "estonian&#259;"
 
 #: ../../english/template/debian/language_names.wml:60
 msgid "Faeroese"
-msgstr "feroeză"
+msgstr "faeroez&#259;"
 
 #: ../../english/template/debian/language_names.wml:61
 msgid "Gaelic (Scots)"
-msgstr "galeză (Scots)"
+msgstr "sco&#355;ian&#259;"
 
 #: ../../english/template/debian/language_names.wml:62
 msgid "Georgian"
-msgstr "georgiană"
+msgstr "georgian&#259;"
 
 #: ../../english/template/debian/language_names.wml:63
 msgid "Hebrew"
-msgstr "ebraică"
+msgstr "ebraic&#259;"
 
 #: ../../english/template/debian/language_names.wml:64
 msgid "Hindi"
@@ -242,47 +238,47 @@ msgstr "hindu"
 
 #: ../../english/template/debian/language_names.wml:65
 msgid "Icelandic"
-msgstr "islandeză"
+msgstr "islandez&#259;"
 
 #: ../../english/template/debian/language_names.wml:66
 msgid "Interlingua"
-msgstr "interlinguă"
+msgstr "interlingu&#259;"
 
 #: ../../english/template/debian/language_names.wml:67
 msgid "Irish"
-msgstr "irlandeză"
+msgstr "irlandez&#259;"
 
 #: ../../english/template/debian/language_names.wml:68
 msgid "Kalaallisut"
-msgstr "Kalaallisut"
+msgstr "groelandez&#259;"
 
 #: ../../english/template/debian/language_names.wml:69
 msgid "Kannada"
-msgstr "Kannada"
+msgstr "canarez&#259;"
 
 #: ../../english/template/debian/language_names.wml:70
 msgid "Kurdish"
-msgstr "kurdă"
+msgstr "curd&#259;"
 
 #: ../../english/template/debian/language_names.wml:71
 msgid "Latvian"
-msgstr "letonă"
+msgstr "leton&#259;"
 
 #: ../../english/template/debian/language_names.wml:72
 msgid "Macedonian"
-msgstr "macedoneană"
+msgstr "macedonean&#259;"
 
 #: ../../english/template/debian/language_names.wml:73
 msgid "Malay"
-msgstr "malay"
+msgstr "malaez&#259;"
 
 #: ../../english/template/debian/language_names.wml:74
 msgid "Malayalam"
-msgstr "malayalam"
+msgstr "malaialam&#259;"
 
 #: ../../english/template/debian/language_names.wml:75
 msgid "Maltese"
-msgstr "malteză"
+msgstr "maltez&#259;"
 
 #: ../../english/template/debian/language_names.wml:76
 msgid "Manx"
@@ -294,43 +290,43 @@ msgstr "maori"
 
 #: ../../english/template/debian/language_names.wml:78
 msgid "Mongolian"
-msgstr "mongolă"
+msgstr "mongol&#259;"
 
 #: ../../english/template/debian/language_names.wml:80
 msgid "Norwegian Bokm&aring;l"
-msgstr "norvegiană bokm&aring;l"
+msgstr "norvegian&#259; c&#259;rtur&#259;reasc&#259;"
 
 #: ../../english/template/debian/language_names.wml:82
 msgid "Norwegian Nynorsk"
-msgstr "norvegiană nyorsk"
+msgstr "norvegian&#259; modern&#259;"
 
 #: ../../english/template/debian/language_names.wml:83
 msgid "Occitan (post 1500)"
-msgstr "occitană (după 1500)"
+msgstr "occitan&#259; (dup&#259; 1500)"
 
 #: ../../english/template/debian/language_names.wml:84
 msgid "Persian"
-msgstr "persană"
+msgstr "persan&#259;"
 
 #: ../../english/template/debian/language_names.wml:85
 msgid "Serbian"
-msgstr "sârbă"
+msgstr "s&#226;rb&#259;"
 
 #: ../../english/template/debian/language_names.wml:86
 msgid "Slovenian"
-msgstr "slovenă"
+msgstr "sloven&#259;"
 
 #: ../../english/template/debian/language_names.wml:87
 msgid "Tajik"
-msgstr "tadjică"
+msgstr "tadjic&#259;"
 
 #: ../../english/template/debian/language_names.wml:88
 msgid "Thai"
-msgstr "tailandeză"
+msgstr "tailandez&#259;"
 
 #: ../../english/template/debian/language_names.wml:89
 msgid "Tonga"
-msgstr "tongană"
+msgstr "tongan&#259;"
 
 #: ../../english/template/debian/language_names.wml:90
 msgid "Twi"
@@ -338,28 +334,27 @@ msgstr "twi"
 
 #: ../../english/template/debian/language_names.wml:91
 msgid "Ukrainian"
-msgstr "ucraineană"
+msgstr "ucrainean&#259;"
 
 #: ../../english/template/debian/language_names.wml:92
 msgid "Vietnamese"
-msgstr "vietnameză"
+msgstr "vietnamez&#259;"
 
 #: ../../english/template/debian/language_names.wml:93
 msgid "Welsh"
-msgstr "galeză"
+msgstr "galez&#259;"
 
 #: ../../english/template/debian/language_names.wml:94
 msgid "Xhosa"
-msgstr "xhosa"
+msgstr "xos&#259;"
 
 #: ../../english/template/debian/language_names.wml:95
 msgid "Yiddish"
-msgstr "idiș"
+msgstr "idi&#351;"
 
 #: ../../english/template/debian/language_names.wml:96
 msgid "Zulu"
 msgstr "zulu"
 
 #~ msgid "Gallegan"
-#~ msgstr "galegană"
-
+#~ msgstr "galegan&#259;"

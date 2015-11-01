@@ -1,126 +1,120 @@
-# Jobava <jobaval10n@gmail.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml organization\n"
-"PO-Revision-Date: 2015-10-10 17:13+0300\n"
-"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
-"Language-Team: Romanian <debian-l10n-romanian@lists.debian.org>\n"
-"Language: ro\n"
+"PO-Revision-Date: 2006-08-12 17:50+0200\n"
+"Last-Translator: unknown\n"
+"Language-Team: unknown\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
-"20)) ? 1 : 2;\n"
-"X-Generator: Lokalize 1.5\n"
 
 #: ../../english/template/debian/legal.wml:15
+#, fuzzy
 msgid "License Information"
-msgstr "Mai multe informații"
+msgstr "Mai multe informa&#355;ii"
 
 #: ../../english/template/debian/legal.wml:19
 msgid "DLS Index"
-msgstr "Index DLS"
+msgstr ""
 
 #: ../../english/template/debian/legal.wml:23
 msgid "DFSG"
-msgstr "DFSG"
+msgstr ""
 
 #: ../../english/template/debian/legal.wml:27
 msgid "DFSG FAQ"
-msgstr "Întrebări frecvente DSFG"
+msgstr ""
 
 #: ../../english/template/debian/legal.wml:31
 msgid "Debian-Legal Archive"
-msgstr "Arhiva Debian-Legal"
+msgstr ""
 
 #. title string without version, on the form "dls-xxx - license name: status"
 #: ../../english/template/debian/legal.wml:49
 msgid "%s  &ndash; %s: %s"
-msgstr "%s  &ndash; %s: %s"
+msgstr ""
 
 #. title string with version, on the form "dls-xxx - license name, version: status"
 #: ../../english/template/debian/legal.wml:52
 msgid "%s  &ndash; %s, Version %s: %s"
-msgstr "%s  &ndash; %s, Versiunea %s: %s"
+msgstr ""
 
 #: ../../english/template/debian/legal.wml:59
 msgid "Date published"
-msgstr "Data publicării"
+msgstr ""
 
 #: ../../english/template/debian/legal.wml:61
 msgid "License"
-msgstr "Licență"
+msgstr ""
 
 #: ../../english/template/debian/legal.wml:64
 msgid "Version"
-msgstr "Versiune"
+msgstr ""
 
 #: ../../english/template/debian/legal.wml:66
 msgid "Summary"
-msgstr "Rezumat"
+msgstr ""
 
 #: ../../english/template/debian/legal.wml:70
 msgid "Justification"
-msgstr "Justificare"
+msgstr ""
 
 #: ../../english/template/debian/legal.wml:72
+#, fuzzy
 msgid "Discussion"
-msgstr "Discuție"
+msgstr "&#206;n discu&#355;ie"
 
 #: ../../english/template/debian/legal.wml:74
 msgid "Original Summary"
-msgstr "Rezumat original"
+msgstr ""
 
 #: ../../english/template/debian/legal.wml:76
 msgid ""
 "The original summary by <summary-author/> can be found in the <a href="
 "\"<summary-url/>\">list archives</a>."
 msgstr ""
-"Rezumatul original de <summary-author/> poate fi găsit în <a href="
-"\"<summary-url/>\">arhivele listei</a>."
 
 #: ../../english/template/debian/legal.wml:77
 msgid "This summary was prepared by <summary-author/>."
-msgstr "Rezumatul a fost realizat de <summary-author/>."
+msgstr ""
 
 #: ../../english/template/debian/legal.wml:80
 msgid "License text (translated)"
-msgstr "Textul licenței (tradusă)"
+msgstr ""
 
 #: ../../english/template/debian/legal.wml:83
 msgid "License text"
-msgstr "Textul licenței"
+msgstr ""
 
 #: ../../english/template/debian/legal_tags.wml:6
 msgid "free"
-msgstr "liber"
+msgstr ""
 
 #: ../../english/template/debian/legal_tags.wml:7
+#, fuzzy
 msgid "non-free"
-msgstr "neliber"
+msgstr "nimic"
 
 #: ../../english/template/debian/legal_tags.wml:8
 msgid "not redistributable"
-msgstr "neredistribuibil"
+msgstr ""
 
 #. For the use in headlines, see legal/licenses/byclass.wml
 #: ../../english/template/debian/legal_tags.wml:12
 msgid "Free"
-msgstr "Liber"
+msgstr ""
 
 #: ../../english/template/debian/legal_tags.wml:13
 msgid "Non-Free"
-msgstr "Neliber"
+msgstr ""
 
 #: ../../english/template/debian/legal_tags.wml:14
 msgid "Not Redistributable"
-msgstr "Neredistribuibil"
+msgstr ""
 
 #: ../../english/template/debian/legal_tags.wml:27
 msgid ""
 "See the <a href=\"./\">license information</a> page for an overview of the "
 "Debian License Summaries (DLS)."
 msgstr ""
-"Vedeți pagina cu <a href=\"./\">informațiile de licențiere</a> pentru o privire "
-"de ansamblu a Rezumatelor Licențelor Debian (DLS)."
-

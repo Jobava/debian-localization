@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml organization\n"
-"PO-Revision-Date: 2015-10-10 14:30+0200\n"
+"PO-Revision-Date: 2015-10-18 12:27+0300\n"
 "Last-Translator: Jobava <jobaval10n@gmail.com>\n"
 "Language-Team: Romanian <debian-l10n-romanian@lists.debian.org>\n"
 "Language: ro\n"
@@ -22,14 +22,14 @@ msgstr "în pachetul"
 #: ../../english/Bugs/pkgreport-opts.inc:60
 #: ../../english/Bugs/pkgreport-opts.inc:94
 msgid "tagged"
-msgstr "etichetat"
+msgstr "etichetate"
 
 #: ../../english/Bugs/pkgreport-opts.inc:23
 #: ../../english/Bugs/pkgreport-opts.inc:63
 #: ../../english/Bugs/pkgreport-opts.inc:97
 #| msgid "severities"
 msgid "with severity"
-msgstr "cu severitate"
+msgstr "cu severitatea"
 
 #: ../../english/Bugs/pkgreport-opts.inc:26
 msgid "in source package"
@@ -45,7 +45,7 @@ msgstr "trimise de"
 
 #: ../../english/Bugs/pkgreport-opts.inc:35
 msgid "owned by"
-msgstr "deținut de"
+msgstr "deținute de"
 
 #: ../../english/Bugs/pkgreport-opts.inc:38
 #| msgid "status"
@@ -73,12 +73,12 @@ msgstr "cu stare „în așteptare”"
 #: ../../english/Bugs/pkgreport-opts.inc:69
 #: ../../english/Bugs/pkgreport-opts.inc:103
 msgid "with submitter containing"
-msgstr "cu trimițător conținând"
+msgstr "cu raportor conținând"
 
 #: ../../english/Bugs/pkgreport-opts.inc:72
 #: ../../english/Bugs/pkgreport-opts.inc:106
 msgid "with forwarded containing"
-msgstr "cu conținut redirecționat (forwarded)"
+msgstr "cu redirecționat conținând"
 
 #: ../../english/Bugs/pkgreport-opts.inc:75
 #: ../../english/Bugs/pkgreport-opts.inc:109
@@ -105,27 +105,27 @@ msgstr "brut"
 #: ../../english/Bugs/pkgreport-opts.inc:131
 #| msgid "sarge"
 msgid "age"
-msgstr "vârsta"
+msgstr "vârstă"
 
 #: ../../english/Bugs/pkgreport-opts.inc:137
 msgid "Repeat Merged"
-msgstr "Comasat repetat"
+msgstr "Repetă fuzionate"
 
 #: ../../english/Bugs/pkgreport-opts.inc:138
 msgid "Reverse Bugs"
-msgstr "Defecte inverse"
+msgstr "Inversează rapoarte"
 
 #: ../../english/Bugs/pkgreport-opts.inc:139
 msgid "Reverse Pending"
-msgstr "În așteptare, inversat"
+msgstr "Inversează așteaptă încărcare"
 
 #: ../../english/Bugs/pkgreport-opts.inc:140
 msgid "Reverse Severity"
-msgstr "Severitate inversată"
+msgstr "Inversează severitate"
 
 #: ../../english/Bugs/pkgreport-opts.inc:141
 msgid "No Bugs which affect packages"
-msgstr "Nu sunt defecte ce afectează pachete"
+msgstr "Fără rapoarte ce afectează alte pachete"
 
 #: ../../english/Bugs/pkgreport-opts.inc:143
 msgid "None"
@@ -154,7 +154,7 @@ msgstr "unstable"
 #: ../../english/Bugs/pkgreport-opts.inc:152
 #| msgid "archived bugs"
 msgid "Unarchived"
-msgstr "Dezarhivate"
+msgstr "Nearhivate"
 
 #: ../../english/Bugs/pkgreport-opts.inc:155
 #| msgid "archived bugs"
@@ -163,9 +163,9 @@ msgstr "Arhivate"
 
 #: ../../english/Bugs/pkgreport-opts.inc:158
 msgid "Archived and Unarchived"
-msgstr "Arhivate și dezarhivate"
+msgstr "Arhivate și nearhivate"
 
-#~ msgid "Flags:"
+#~ msgid "Flag"
 #~ msgstr "Opțiuni:"
 
 #~ msgid "active bugs"
