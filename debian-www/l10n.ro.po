@@ -1,17 +1,20 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml organization\n"
-"PO-Revision-Date: 2006-08-12 17:48+0200\n"
-"Last-Translator: unknown\n"
-"Language-Team: unknown\n"
-"Language: \n"
+"PO-Revision-Date: 2015-10-10 17:01+0300\n"
+"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
+"Language-Team: Romanian <debian-l10n-romanian@lists.debian.org>\n"
+"Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #: ../../english/international/l10n/dtc.def:10
 msgid "File"
-msgstr "Fi&#351;&#259;"
+msgstr "Fișier"
 
 #: ../../english/international/l10n/dtc.def:14
 msgid "Package"
@@ -23,51 +26,47 @@ msgstr "Scor"
 
 #: ../../english/international/l10n/dtc.def:22
 msgid "Translator"
-msgstr "Traduc&#259;tor"
+msgstr "Traducător"
 
 #: ../../english/international/l10n/dtc.def:26
 msgid "Team"
-msgstr "Echip&#259;"
+msgstr "Echipă"
 
 #: ../../english/international/l10n/dtc.def:30
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: ../../english/international/l10n/dtc.def:34
 msgid "Status"
-msgstr ""
+msgstr "Starea"
 
 #: ../../english/international/l10n/dtc.def:38
 msgid "Strings"
-msgstr ""
+msgstr "Șiruri"
 
 #: ../../english/international/l10n/dtc.def:42
 msgid "Bug"
-msgstr ""
+msgstr "Defect (bug)"
 
 #: ../../english/international/l10n/dtc.def:49
-msgid "<get-var lang />, as spoken in <get-var country />"
-msgstr "<get-var lang />, vorbit&#259; ca &#238;n <get-var country />"
+msgid  "<get-var lang />, as spoken in <get-var country />"
+msgstr "<get-var lang />, cum e vorbită în <get-var country />"
 
 #: ../../english/international/l10n/dtc.def:54
 msgid "Unknown language"
-msgstr "Limbaj necunoscut"
+msgstr "Limbă necunoscută"
 
 #: ../../english/international/l10n/dtc.def:64
 msgid "This page was generated with data collected on: <get-var date />."
-msgstr ""
-"Aceast&#259; pagin&#259; a fost generat&#259; cu date colectate la: <get-var "
-"date />."
+msgstr "Această; pagină a fost generată cu date colectate la: <get-var date />."
 
 #: ../../english/international/l10n/dtc.def:69
 msgid "Before working on these files, make sure they are up to date!"
-msgstr ""
-"&#206;nainte de a lucra pe aceste fi&#351;iere, ave&#355;i grij&#259; ca "
-"s&#259; fie la zi!"
+msgstr "Înainte de a lucra pe aceste fișiere, aveți grijă ca să fie la zi!"
 
 #: ../../english/international/l10n/dtc.def:79
 msgid "Section: <get-var name />"
-msgstr "Sec&#355;iunea: <get-var name />"
+msgstr "Secțiunea: <get-var name />"
 
 #: ../../english/international/l10n/menu.def:10
 msgid "L10n"
@@ -83,7 +82,7 @@ msgstr "Cotare"
 
 #: ../../english/international/l10n/menu.def:22
 msgid "Hints"
-msgstr "Idei ajut&#259;toare"
+msgstr "Indicii"
 
 #: ../../english/international/l10n/menu.def:26
 msgid "Errors"
@@ -91,14 +90,15 @@ msgstr "Erori"
 
 #: ../../english/international/l10n/menu.def:30
 msgid "POT files"
-msgstr "Fi&#351;iere pot"
+msgstr "Fișierele POT"
 
 #: ../../english/international/l10n/menu.def:34
 msgid "Hints for translators"
-msgstr "Idei ajut&#259;toare pentru traduc&#259;tori"
+msgstr "Indicii pentru traducători"
 
 #~ msgid "Translated templates"
 #~ msgstr "Modele traduse"
 
 #~ msgid "Original templates"
 #~ msgstr "Modele originale"
+
