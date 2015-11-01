@@ -1,134 +1,139 @@
+# Jobava <jobaval10n@gmail.com>, 2015.
+# Andrei Popescu <andreimpopescu@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml organization\n"
-"PO-Revision-Date: 2006-08-12 17:50+0200\n"
-"Last-Translator: unknown\n"
-"Language-Team: unknown\n"
-"Language: \n"
+"PO-Revision-Date: 2015-11-01 11:00+0200\n"
+"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
+"Language-Team: Romanian <debian-l10n-romanian@lists.debian.org>\n"
+"Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #: ../../english/template/debian/wnpp.wml:8
-#, fuzzy
 msgid "No requests for adoption"
-msgstr "Mai multe informa&#355;ii"
+msgstr "Nu sunt cereri de adopție"
 
 #: ../../english/template/debian/wnpp.wml:12
 msgid "No orphaned packages"
-msgstr ""
+msgstr "Nu sunt pachete orfane"
 
 #: ../../english/template/debian/wnpp.wml:16
 msgid "No packages waiting to be adopted"
-msgstr ""
+msgstr "Nu sunt pachete ce așteaptă adopția"
 
 #: ../../english/template/debian/wnpp.wml:20
 msgid "No packages waiting to be packaged"
-msgstr ""
+msgstr "Nu sunt pachete ce așteaptă împachetarea"
 
 #: ../../english/template/debian/wnpp.wml:24
 msgid "No Requested packages"
-msgstr ""
+msgstr "Nu sunt pachete solicitate"
 
 #: ../../english/template/debian/wnpp.wml:28
 msgid "No help requested"
-msgstr ""
+msgstr "Nicio solicitare de ajutor"
 
 #. define messages for timespans
 #. first the ones for being_adopted (ITAs)
 #: ../../english/template/debian/wnpp.wml:34
 msgid "in adoption since today."
-msgstr ""
+msgstr "adoptate începând de azi"
 
 #: ../../english/template/debian/wnpp.wml:38
 msgid "in adoption since yesterday."
-msgstr ""
+msgstr "adoptate începând de ieri"
 
 #: ../../english/template/debian/wnpp.wml:42
 msgid "%s days in adoption."
-msgstr ""
+msgstr "de %s zile în adopție"
 
 #: ../../english/template/debian/wnpp.wml:46
 msgid "%s days in adoption, last activity today."
-msgstr ""
+msgstr "de %s zile în adopție, ultima activitate azi."
 
 #: ../../english/template/debian/wnpp.wml:50
 msgid "%s days in adoption, last activity yesterday."
-msgstr ""
+msgstr "de %s zile în adopție, ultima activitate ieri."
 
 #: ../../english/template/debian/wnpp.wml:54
 msgid "%s days in adoption, last activity %s days ago."
-msgstr ""
+msgstr "de %s zile în adopție, ultima activitate acum %s zile."
 
 #. timespans for being_packaged (ITPs)
 #: ../../english/template/debian/wnpp.wml:60
 msgid "in preparation since today."
-msgstr ""
+msgstr "în pregătire începând de azi."
 
 #: ../../english/template/debian/wnpp.wml:64
 msgid "in preparation since yesterday."
-msgstr ""
+msgstr "în pregătire începând de ieri."
 
 #: ../../english/template/debian/wnpp.wml:68
 msgid "%s days in preparation."
-msgstr ""
+msgstr "%s zile în pregătire."
 
 #: ../../english/template/debian/wnpp.wml:72
 msgid "%s days in preparation, last activity today."
-msgstr ""
+msgstr "de %s zile în pregătire, ultima activitate azi."
 
 #: ../../english/template/debian/wnpp.wml:76
 msgid "%s days in preparation, last activity yesterday."
-msgstr ""
+msgstr "de %s zile în pregătire, ultima activitate ieri."
 
 #: ../../english/template/debian/wnpp.wml:80
 msgid "%s days in preparation, last activity %s days ago."
-msgstr ""
+msgstr "de %s zile în pregătire, ultima activitate acum %s zile."
 
 #. timespans for request for adoption (RFAs)
 #: ../../english/template/debian/wnpp.wml:85
 msgid "adoption requested since today."
-msgstr ""
+msgstr "adopția solicitate începând de azi."
 
 #: ../../english/template/debian/wnpp.wml:89
 msgid "adoption requested since yesterday."
-msgstr ""
+msgstr "adopția solicitată începând de ieri."
 
 #: ../../english/template/debian/wnpp.wml:93
 msgid "adoption requested since %s days."
-msgstr ""
+msgstr "adopția solicitată de acum %s zile."
 
 #. timespans for orphaned packages (Os)
 #: ../../english/template/debian/wnpp.wml:98
 msgid "orphaned since today."
-msgstr ""
+msgstr "devenit orfan azi."
 
 #: ../../english/template/debian/wnpp.wml:102
 msgid "orphaned since yesterday."
-msgstr ""
+msgstr "devenit orfan ieri."
 
 #: ../../english/template/debian/wnpp.wml:106
 msgid "orphaned since %s days."
-msgstr ""
+msgstr "devenit orfan de %s zile."
 
 #. time spans for requested (RFPs) and help requested (RFHs)
 #: ../../english/template/debian/wnpp.wml:111
 msgid "requested today."
-msgstr ""
+msgstr "solicitat azi."
 
 #: ../../english/template/debian/wnpp.wml:115
 msgid "requested yesterday."
-msgstr ""
+msgstr "solicitat ieri."
 
 #: ../../english/template/debian/wnpp.wml:119
 msgid "requested %s days ago."
-msgstr ""
+msgstr "solicitat acum %s zile."
 
 #: ../../english/template/debian/wnpp.wml:133
 msgid "package info"
-msgstr ""
+msgstr "informații pachete"
 
 #. popcon rank for RFH bugs
 #: ../../english/template/debian/wnpp.wml:139
 msgid "rank:"
-msgstr ""
+msgstr "rang:"
+

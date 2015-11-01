@@ -1,20 +1,26 @@
+# Jobava <jobaval10n@gmail.com>, 2015.
+# Andrei Popescu <andreimpopescu@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml organization\n"
-"PO-Revision-Date: 2006-08-12 17:49+0200\n"
-"Last-Translator: unknown\n"
-"Language-Team: unknown\n"
+"PO-Revision-Date: 2015-11-01 10:48+0200\n"
+"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
+"Language-Team: Romanian <debian-l10n-romanian@lists.debian.org>\n"
+"Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #: ../../english/searchtmpl/search.def:6
 msgid "Search for"
-msgstr "Caut&#259; pentru"
+msgstr "Caută pentru"
 
 #: ../../english/searchtmpl/search.def:10
 msgid "Results per page"
-msgstr "Rezultate pe pagin&#259;"
+msgstr "Rezultate pe pagină"
 
 #: ../../english/searchtmpl/search.def:14
 msgid "Output format"
@@ -34,7 +40,7 @@ msgstr "Adrese"
 
 #: ../../english/searchtmpl/search.def:30
 msgid "Default query type"
-msgstr "Tip de cerere predefinit&#259;"
+msgstr "Interogare predefinită"
 
 #: ../../english/searchtmpl/search.def:34
 msgid "All Words"
@@ -42,15 +48,15 @@ msgstr "Toate cuvintele"
 
 #: ../../english/searchtmpl/search.def:38
 msgid "Any Words"
-msgstr "Cel pu&#355;in un cuv&#226;nt"
+msgstr "Cel puțin un cuvânt"
 
 #: ../../english/searchtmpl/search.def:42
 msgid "Search through"
-msgstr "Caut&#259; printre"
+msgstr "Caută prin"
 
 #: ../../english/searchtmpl/search.def:46
 msgid "Entire site"
-msgstr "&#206;ntregul sait"
+msgstr "Întregul sait"
 
 #: ../../english/searchtmpl/search.def:50
 msgid "Language"
@@ -62,14 +68,14 @@ msgstr "Oricare"
 
 #: ../../english/searchtmpl/search.def:58
 msgid "Search results"
-msgstr "G&#259;se&#351;te rezultate"
+msgstr "Rezultatele căutării"
 
 #: ../../english/searchtmpl/search.def:65
 msgid ""
 "Displaying documents \\$(first)-\\$(last) of total <B>\\$(total)</B> found."
 msgstr ""
 "Documentele \\$(first)-\\$(last) dintr-un total de <B>\\$(total)</B> "
-"documente g&#259;site."
+"documente găsite."
 
 #: ../../english/searchtmpl/search.def:69
 msgid ""
@@ -77,28 +83,27 @@ msgid ""
 "English only, you may want to try searching again and set the Language to "
 "Any."
 msgstr ""
-"Ne pare r&#259;u, dar c&#259;utarea nu a g&#259;sit nimic. <P>Unele pagini "
-"pot fi disponibilenumai &#238;n englez&#259;, poate dori&#355;i s&#259; "
-"reface&#355;i c&#259;utarea &#351;i s&#259; seta&#355;i limba la oricare."
+"Ne pare rău, dar căutarea nu a găsit nimic. <P>Unele pagini "
+"pot fi disponibilenumai în engleză, poate doriți să "
+"refaceți căutarea și să setați limba la „oricare”."
 
 #: ../../english/searchtmpl/search.def:73
 msgid "An error occured!"
-msgstr "Eroare!"
+msgstr "S-a produs o eroare!"
 
 #: ../../english/searchtmpl/search.def:77
 msgid "You should give at least one word to search for."
-msgstr ""
-"Ar trebui s&#259; da&#355;i cel pu&#355;in un cuv&#226;nt pentru c&#259;"
-"utare."
+msgstr "Ar trebui să scrieți cel puțin un cuvânt pentru căutare."
 
 #: ../../english/searchtmpl/search.def:81
 msgid "Powered by"
-msgstr "Ac&#355;ionat de"
+msgstr "Acționat de"
 
 #: ../../english/searchtmpl/search.def:85
 msgid "Next"
-msgstr "Urm&#259;torul"
+msgstr "Următorul"
 
 #: ../../english/searchtmpl/search.def:89
 msgid "Prev"
 msgstr "Precedentul"
+

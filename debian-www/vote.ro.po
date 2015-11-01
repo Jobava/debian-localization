@@ -1,209 +1,210 @@
+# Jobava <jobaval10n@gmail.com>, 2015.
+# Andrei Popescu <andreimpopescu@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: Debian webwml organization\n"
-"PO-Revision-Date: 2006-08-12 17:50+0200\n"
-"Last-Translator: unknown\n"
-"Language-Team: unknown\n"
-"Language: \n"
+"PO-Revision-Date: 2015-11-01 11:00+0200\n"
+"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
+"Language-Team: Romanian <debian-l10n-romanian@lists.debian.org>\n"
+"Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.5\n"
 
 #: ../../english/template/debian/votebar.wml:13
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 #: ../../english/template/debian/votebar.wml:16
 msgid "Time Line"
-msgstr ""
+msgstr "Linia de timp"
 
 #: ../../english/template/debian/votebar.wml:19
-#, fuzzy
 msgid "Nominations"
-msgstr "Dona&#355;ii"
+msgstr "Nominalizări"
 
 #: ../../english/template/debian/votebar.wml:22
-#, fuzzy
 msgid "Debate"
-msgstr "Echipa Debian CD"
+msgstr "Dezbatere"
 
 #: ../../english/template/debian/votebar.wml:25
 msgid "Platforms"
-msgstr ""
+msgstr "Platforme"
 
 #: ../../english/template/debian/votebar.wml:28
-#, fuzzy
 msgid "Proposer"
-msgstr "propuse"
+msgstr "Propunător"
 
 #: ../../english/template/debian/votebar.wml:31
 msgid "Proposal A Proposer"
-msgstr ""
+msgstr "Propunere de către propunător"
 
 #: ../../english/template/debian/votebar.wml:34
 msgid "Proposal B Proposer"
-msgstr ""
+msgstr "Propunător al propunerii B"
 
 #: ../../english/template/debian/votebar.wml:37
 msgid "Proposal C Proposer"
-msgstr ""
+msgstr "Propunător al propunerii C"
 
 #: ../../english/template/debian/votebar.wml:40
 msgid "Proposal D Proposer"
-msgstr ""
+msgstr "Propunător al propunerii D"
 
 #: ../../english/template/debian/votebar.wml:43
 msgid "Proposal E Proposer"
-msgstr ""
+msgstr "Propunător al propunerii E"
 
 #: ../../english/template/debian/votebar.wml:46
 msgid "Proposal F Proposer"
-msgstr ""
+msgstr "Propunător al propunerii F"
 
 #: ../../english/template/debian/votebar.wml:49
 msgid "Seconds"
-msgstr ""
+msgstr "Susținători"
 
 #: ../../english/template/debian/votebar.wml:52
 msgid "Proposal A Seconds"
-msgstr ""
+msgstr "Susținător al propunerii A"
 
 #: ../../english/template/debian/votebar.wml:55
 msgid "Proposal B Seconds"
-msgstr ""
+msgstr "Susținător al propunerii B"
 
 #: ../../english/template/debian/votebar.wml:58
 msgid "Proposal C Seconds"
-msgstr ""
+msgstr "Susținător al propunerii C"
 
 #: ../../english/template/debian/votebar.wml:61
 msgid "Proposal D Seconds"
-msgstr ""
+msgstr "Susținător al propunerii D"
 
 #: ../../english/template/debian/votebar.wml:64
 msgid "Proposal E Seconds"
-msgstr ""
+msgstr "Susținător al propunerii E"
 
 #: ../../english/template/debian/votebar.wml:67
 msgid "Proposal F Seconds"
-msgstr ""
+msgstr "Susținător al propunerii F"
 
 #: ../../english/template/debian/votebar.wml:70
 msgid "Opposition"
-msgstr ""
+msgstr "Opoziție"
 
 #: ../../english/template/debian/votebar.wml:73
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: ../../english/template/debian/votebar.wml:76
 msgid "Proposal A"
-msgstr ""
+msgstr "Propunerea A"
 
 #: ../../english/template/debian/votebar.wml:79
 msgid "Proposal B"
-msgstr ""
+msgstr "Propunerea B"
 
 #: ../../english/template/debian/votebar.wml:82
 msgid "Proposal C"
-msgstr ""
+msgstr "Propunerea C"
 
 #: ../../english/template/debian/votebar.wml:85
 msgid "Proposal D"
-msgstr ""
+msgstr "Propunerea D"
 
 #: ../../english/template/debian/votebar.wml:88
 msgid "Proposal E"
-msgstr ""
+msgstr "Propunerea E"
 
 #: ../../english/template/debian/votebar.wml:91
 msgid "Proposal F"
-msgstr ""
+msgstr "Propunerea F"
 
 #: ../../english/template/debian/votebar.wml:94
 msgid "Choices"
-msgstr ""
+msgstr "Opțiuni"
 
 #: ../../english/template/debian/votebar.wml:97
 msgid "Amendment Proposer"
-msgstr ""
+msgstr "Propunător al amendamentului"
 
 #: ../../english/template/debian/votebar.wml:100
 msgid "Amendment Seconds"
-msgstr ""
+msgstr "Susținători ai amendamentului"
 
 #: ../../english/template/debian/votebar.wml:103
 msgid "Amendment Text"
-msgstr ""
+msgstr "Textul amendamentului"
 
 #: ../../english/template/debian/votebar.wml:106
 msgid "Amendment Proposer A"
-msgstr ""
+msgstr "Propunătorul amendamentului A"
 
 #: ../../english/template/debian/votebar.wml:109
 msgid "Amendment Seconds A"
-msgstr ""
+msgstr "Susținătorii amendamentului A"
 
 #: ../../english/template/debian/votebar.wml:112
 msgid "Amendment Text A"
-msgstr ""
+msgstr "Textul amendamentului A"
 
 #: ../../english/template/debian/votebar.wml:115
 msgid "Amendment Proposer B"
-msgstr ""
+msgstr "Propunătorul amendamentului B"
 
 #: ../../english/template/debian/votebar.wml:118
 msgid "Amendment Seconds B"
-msgstr ""
+msgstr "Susținătorii amendamentului B"
 
 #: ../../english/template/debian/votebar.wml:121
 msgid "Amendment Text B"
-msgstr ""
+msgstr "Textul amendamentului B"
 
 #: ../../english/template/debian/votebar.wml:124
 msgid "Amendments"
-msgstr ""
+msgstr "Amendamente"
 
 #: ../../english/template/debian/votebar.wml:127
 msgid "Proceedings"
-msgstr ""
+msgstr "Proceduri"
 
 #: ../../english/template/debian/votebar.wml:130
 msgid "Majority Requirement"
-msgstr ""
+msgstr "Cerința majorității"
 
 #: ../../english/template/debian/votebar.wml:133
 msgid "Data and Statistics"
-msgstr ""
+msgstr "Date și statistici"
 
 #: ../../english/template/debian/votebar.wml:136
 msgid "Quorum"
-msgstr ""
+msgstr "Qvorum"
 
 #: ../../english/template/debian/votebar.wml:139
-#, fuzzy
 msgid "Minimum Discussion"
-msgstr "&#206;n discu&#355;ie"
+msgstr "Discuție minimală"
 
 #: ../../english/template/debian/votebar.wml:142
 msgid "Ballot"
-msgstr ""
+msgstr "Buletin de vot"
 
 #: ../../english/template/debian/votebar.wml:145
 msgid "Forum"
-msgstr ""
+msgstr "Forum"
 
 #: ../../english/template/debian/votebar.wml:148
 msgid "Outcome"
-msgstr ""
+msgstr "Rezultat"
 
 #: ../../english/template/debian/votebar.wml:152
 msgid "Waiting&nbsp;for&nbsp;Sponsors"
-msgstr "A&#351;tept&#226;nd sponsorii"
+msgstr "În&nbsp;așteptarea&nbsp;sponsorilor"
 
 #: ../../english/template/debian/votebar.wml:155
 msgid "In&nbsp;Discussion"
-msgstr "&#206;n discu&#355;ie"
+msgstr "În discuție"
 
 #: ../../english/template/debian/votebar.wml:158
 msgid "Voting&nbsp;Open"
@@ -223,28 +224,29 @@ msgstr "Altele"
 
 #: ../../english/template/debian/votebar.wml:171
 msgid "Home&nbsp;Vote&nbsp;Page"
-msgstr "Pagina de vot"
+msgstr "Pagina&nbsp;de&nbsp;vot"
 
 #: ../../english/template/debian/votebar.wml:174
 msgid "How&nbsp;To"
-msgstr "Cum&nbsp;s&#259;"
+msgstr "Cum&nbsp;să"
 
 #: ../../english/template/debian/votebar.wml:177
 msgid "Submit&nbsp;a&nbsp;Proposal"
-msgstr "Propune&#355;i"
+msgstr "Faceți&nbsp;o&nbsp;propunere"
 
 #: ../../english/template/debian/votebar.wml:180
 msgid "Amend&nbsp;a&nbsp;Proposal"
-msgstr "Amenda&#355;i propunerea"
+msgstr "Amendați&nbsp;propunerea"
 
 #: ../../english/template/debian/votebar.wml:183
 msgid "Follow&nbsp;a&nbsp;Proposal"
-msgstr "Urm&#259;ri&#355;i propunerea"
+msgstr "Urmăriți&nbsp;propunerea"
 
 #: ../../english/template/debian/votebar.wml:186
 msgid "Read&nbsp;a&nbsp;Result"
-msgstr "Citi&#355;i rezultatul"
+msgstr "Citiți&nbsp;rezultatul"
 
 #: ../../english/template/debian/votebar.wml:189
 msgid "Vote"
-msgstr "Vota&#355;i"
+msgstr "Votați"
+
